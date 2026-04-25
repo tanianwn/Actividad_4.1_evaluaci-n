@@ -28,6 +28,8 @@ En esta primera prueba, se validó la lógica matemática de el path a completar
 ## Resultado 2 
 
 En la segunda simulación, tras ajustar los parámetros, se obtuvo una figura que asemeja un **moño horizontal** o una **montaña rusa**.
+<img width="500" alt="Resultados de la simulación2" src="https://github.com/user-attachments/assets/86d64c74-ef35-4d1a-a386-bb8ba0b17ced" />
+
 
 * **Descripción de la Forma:** La trayectoria presenta una subida suave, una transición en el tramo 2 que genera un bucle o curva cerrada (parecido a un moño), y una caída hacia los numeros negativos pronunciada hacia el final.
 * **Análisis Técnico:**
@@ -37,8 +39,3 @@ En la segunda simulación, tras ajustar los parámetros, se obtuvo una figura qu
 
 ---
 
-### Conclusión de la Reposición
-A pesar de los detalles visuales de inversión y las formas complejas por el paso de tiempo, el script demuestra el dominio de:
-1.  Derivación de funciones complejas (exponenciales y trigonométricas).
-2.  Implementación de estructuras condicionales para tramos de tiempo.
-3.  Simulación de bucles cinemáticos para robots móviles.
